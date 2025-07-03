@@ -1,9 +1,9 @@
 
-`npm install`
-`npm init`
-`npm run server or npm run dev`
-`git init`
-`git add .`
-`git commit -m "message"`
-`git remote add ---------`
-`git push -u origin master or git push`
+1.`npm install`
+2.`npm init`
+3.`npm run server or npm run dev`
+4.`git init`
+5.`git add .`
+6.`git commit -m "message"`
+7.`git remote add ---------`
+8.`git push -u origin master or git push`
