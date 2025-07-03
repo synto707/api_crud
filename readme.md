@@ -1,4 +1,4 @@
-
+#important commands
 1.`npm install`
 2.`npm init`
 3.`npm run server or npm run dev`
